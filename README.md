@@ -5,3 +5,6 @@
 
 [!IMPORTANT]
 # !pro spuštění je nezbytné nainstalovat si python!
+
+> [!CAUTION]
+> !pro spuštění je nezbytné nainstalovat si python!
